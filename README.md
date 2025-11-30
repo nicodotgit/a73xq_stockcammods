@@ -1,7 +1,7 @@
 # a73xq-stockcammods
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ngdplnk/a73xq_stockcammods/refs/heads/main/banner.png" alt="a73xq-stockcammods banner" width="400" />
+  <img src="https://raw.githubusercontent.com/nicodotgit/a73xq_stockcammods/refs/heads/main/banner.png" alt="a73xq-stockcammods banner" width="400" />
 </p>
 
 Enhanced features for your Galaxy A73 5G's Stock Camera based on S25 Ultra configs.
@@ -51,11 +51,11 @@ This module allows you to use the following features:
 - Anamorphic lens and DOF adapter settings on Camera Assistant.
 </details>
 
-## [📥Latest module for OneUI 7](https://github.com/ngdplnk/a73xq_stockcammods/releases/latest)
+## [📥Latest module for OneUI 7](https://github.com/nicodotgit/a73xq_stockcammods/releases/latest)
 
 **If you are using KernelSU, toggle `Umount modules` OFF for the Camera app to get the mods working!!!**
 
 ## About and acknowledgements
-Mods created and mantained with ❤️ by [@ngdplnk](https://github.com/ngdplnk). For A73 5G only.
+Mods created and mantained with ❤️ by [@nicodotgit](https://github.com/nicodotgit). For A73 5G only.
 
 Special thanks to [@utkustnr](https://github.com/utkustnr) and [@eversonsouzz](https://t.me/eversonsouzz) :shipit:
